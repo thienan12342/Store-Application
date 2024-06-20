@@ -1,0 +1,15 @@
+#header {
+    -fx-fill: blue;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+
+}
+
+Button {
+    -fx-background-color: black;
+    -fx-text-fill: yellow;
+}
+
+Button:hover {
+    -fx-background-color: blue;
+}
